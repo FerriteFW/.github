@@ -29,3 +29,13 @@ Free for noncommercial use, under the [PolyForm Noncommercial License 1.0.0](htt
 - [Discord](https://discord.gg/fYygBVD2Kx) for questions.
 - [GitHub issues](https://github.com/FerriteFW/ferrite/issues) for bugs.
 - [ferritefw.dev](https://ferritefw.dev)
+
+## Link to us
+
+[![Ferrite](https://raw.githubusercontent.com/FerriteFW/.github/main/profile/ferrite-88x31.gif)](https://ferritefw.dev)
+
+An 88x31 for your button wall. Save a copy to your own site rather than hotlinking it.
+
+```html
+<a href="https://ferritefw.dev"><img src="ferrite-88x31.gif" width="88" height="31" alt="Ferrite"></a>
+```
