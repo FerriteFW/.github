@@ -18,7 +18,7 @@ Console also updates Ferrite, edits channels and settings, and puts stock back f
 - [console](https://github.com/FerriteFW/console): Ferrite Console, to install, update and program the radio.
 - [docs](https://github.com/FerriteFW/docs): the manual.
 - [website](https://github.com/FerriteFW/ferrite-website): ferritefw.dev and the blog.
-- [data](https://github.com/FerriteFW/data): the channel library's data (repeaters, airports and more), served at data.ferritefw.dev.
+- [data](https://github.com/FerriteFW/data): the channel library's data (licensed stations, airports, satellites), served at data.ferritefw.dev.
 
 ## Licence
 
