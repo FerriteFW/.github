@@ -22,7 +22,7 @@ Console also updates Ferrite, edits channels and settings, and puts stock back f
 
 ## Licence
 
-Free for noncommercial use, under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). Selling Ferrite, or radios with it, needs a commercial licence.
+Free for noncommercial use, under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). Selling Ferrite, or radios with it, needs a commercial licence. The names and the logo are for our own releases: a changed build takes another name ([TRADEMARKS.md](https://github.com/FerriteFW/ferrite/blob/main/TRADEMARKS.md)).
 
 ## Help
 

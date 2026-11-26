@@ -1,0 +1,22 @@
+name: Bug report
+description: Something doesn't work as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Bugs in the firmware go to [Ferrite's issues](https://github.com/FerriteFW/ferrite/issues), and in Ferrite Console to [Console's](https://github.com/FerriteFW/console/issues). We fix bugs in official releases: a bug seen only on an unofficial build is closed unless it also happens on an official release.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The version line from the radio's About (MENU 0 9 8), and whether it says "Unofficial build"; or the version of what you're reporting on.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what happened, what you expected.
+    validations:
+      required: true
